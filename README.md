@@ -5,3 +5,6 @@
 ![Screen shot todoapp](./public/Screenshot_todoApp.png 'todo app')
 ### Add todo modal 
 ![modal add new todo for the app ](./public/todoAddScreenshot.png 'add modal')
+
+
+[Live Site](https://leamsigc.github.io/reactjsTaskApp/)
