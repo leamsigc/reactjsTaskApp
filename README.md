@@ -7,4 +7,4 @@
 ![modal add new todo for the app ](./public/todoAddScreenshot.png 'add modal')
 
 
-[Live Site](https://leamsigc.github.io/reactjsTaskApp/)
+[Check Site](https://leamsigc.github.io/reactjsTaskApp/)
